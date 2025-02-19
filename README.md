@@ -10,6 +10,7 @@ Nombre: Edilson Enrique García Villeda
 Carnet:	9490-23-2637
 
 ***** PARTICIPACIÓN DE CADA MIEMBROS ****
+
 Dayna Meza 	--> 	50%
 
 Edilson García 	--> 	50%
